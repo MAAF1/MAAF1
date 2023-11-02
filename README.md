@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAAF1
-- 👀 I’m interested in Computer vision
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Machine Learning and Data Science
+  
 
 
 <!---
