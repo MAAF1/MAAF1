@@ -3,7 +3,7 @@
 - ## Gmail:
 - muhammedabdulghani42@gmail.com
 - ## LinkedIn
-- [!Muhammad AbdulGhani](https://www.linkedin.com/in/muhammad-abdulghani-058b59284/)
+- [Muhammad Abdulghani](https://www.linkedin.com/in/muhammad-abdulghani-058b59284/)
 
 
   
