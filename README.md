@@ -2,8 +2,8 @@
 - # contacts:
 - ## Gmail:
 - muhammedabdulghani42@gmail.com
-- ## linkedin
-- https://www.linkedin.com/in/muhammad-abdulghani-058b59284/
+- ## LinkedIn
+- [!Muhammad AbdulGhani](https://www.linkedin.com/in/muhammad-abdulghani-058b59284/)
 
 
   
