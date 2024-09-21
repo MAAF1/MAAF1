@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MAAF1
-- # contacts:
 - ## Gmail:
 - muhammedabdulghani42@gmail.com
 - ## LinkedIn
