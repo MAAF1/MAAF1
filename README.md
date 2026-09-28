@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAAF1
+- 👋 Hi, I’m Maaf, just a guy who loves building scalable systems
 - ## Gmail:
 - muhammedabdulghani42@gmail.com
 - ## LinkedIn
